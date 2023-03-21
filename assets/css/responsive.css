@@ -20,7 +20,7 @@
     height: calc(100% - 215px);
 }
    .slider .slide__title {
-     font-size: 48px;
+     font-size: 48px!important;
    }
    }
    /**large device css end**/
@@ -105,7 +105,7 @@
    }
    @media (min-width: 768px) and (max-width: 991px){
      .slider .slide__title {
-       font-size: 36px;
+       font-size: 36px!important;
        line-height: 52px;
        
      }
