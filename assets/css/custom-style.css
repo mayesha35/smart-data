@@ -68,6 +68,12 @@
    .service-item .service__title {
     font-size: 18px!important;
 }
-.brochure-btn{
-
+.brochure-btn .btn__xl{
+   
+        min-width: 0px!important;
+        height: 0px!important;
+        line-height: 0px!important;
+}
+.brochure-btn .btn__icon {
+    padding: 0px !important;
 }
