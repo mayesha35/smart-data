@@ -8,5 +8,12 @@
    .read-note{
      margin-bottom: 30px;
    }
+   .service__desc{
+    height: 90px;
+    overflow: hidden;
+   }
+   .heading__title {
+    font-size: 30px!important;
+}
    
    /****custom styling end****/
