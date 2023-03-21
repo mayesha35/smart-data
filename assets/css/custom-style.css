@@ -1,0 +1,19 @@
+/****custom styling start****/
+.navbar .nav__item .nav__item-link {
+    line-height: 67px!important;
+   }
+   .navbar .navbar-brand {
+     margin-right: 20px!important;
+   }
+   .read-note{
+     margin-bottom: 30px;
+   }
+   .service__desc{
+    height: 90px;
+    overflow: hidden;
+   }
+   .heading__title {
+    font-size: 30px!important;
+}
+   
+   /****custom styling end****/

@@ -1,0 +1,118 @@
+
+/****custom responsive style start****/
+/**extra extra large device css start**/
+/* @media (min-width: 1400px) {
+  
+} */
+
+/**extra extra large device css end**/
+/**extra large device css start**/
+/* @media (min-width: 1200px) and (max-width: 1399.99px) {
+  .container {
+    padding-right: 100px;
+    
+}
+}  */
+/**extra large device css end**/
+/**large device css start**/
+@media (min-width: 992px) and (max-width: 1199.99px) {
+    .features-layout1 .features-bg {
+       height: calc(100% - 275px);
+   }
+   .slider .slide__title {
+     font-size: 48px;
+   }
+   }
+   /**large device css end**/
+   
+   /***small device css start**/
+   /* @media (min-width: 576px) and (max-width: 767.99px) {
+     
+   } */
+   
+   /***small device css end**/
+   
+   /*****extra small device css start***/
+   @media (min-width: 359.99px) and (max-width:1200px){
+    .logo-dark{
+     height: 30px!important;
+    }
+    .get-started-btn{
+     line-height: 20px!important;
+    }
+    .btn__xl {
+     min-width: 162px;
+     height: 64px;
+     line-height: 21px;
+   }
+   .download-brochur-btn i{
+      
+       width: 39px;
+       height: 24px;
+       line-height: 24px;
+   
+   }
+   .btn .icon-arrow-right, .btn .icon-arrow-left i{
+     font-size:12px;
+   }
+   }
+   /*****extra small device css end***/
+   
+
+    
+  
+   /* @media (min-width:992.99px)and(max-width: 1199px){
+     .offset-lg-3 {
+       margin-left: 0!important;
+   }
+   } */
+   @media (min-width: 380px){
+     
+    .mt-md-0{
+      margin-top: 0!important;
+    }
+    .my-md-0 {
+      margin-top: 0!important;
+      margin-bottom: 0!important;
+    }
+    .mb-md-0{
+      margin-bottom: 0!important;
+    }
+    .mr-md-0{
+      margin-right: 0!important;
+    }
+    .ml-md-0{
+      margin-left: 0!important;
+    }
+     .mx-md-0{
+      margin-left: 0!important;
+      margin-right: 0!important;
+     } 
+  }
+   @media (max-width: 414.99px){
+    .btn__primary {
+      background-color: #005eb8;
+      color: #ffffff;
+      margin-bottom: 30px;
+    }
+}
+   @media screen and (max-width: 991px){
+     .navbar .navbar-collapse {
+       
+       top: 79%!important;
+      
+   }
+   }
+   @media (min-width: 768px) and (max-width: 991px){
+     .slider .slide__title {
+       font-size: 36px;
+       line-height: 52px;
+       
+     }
+   }
+   @media (min-width: 320px) and (max-width: 767px){
+    .heading__title {
+        font-size: 21px;
+    }
+   }
+   /****custom responsive style end****/
