@@ -2844,6 +2844,7 @@ input[type=radio] {
 .navbar .nav__item .nav__item-link.active:before,
 .navbar .nav__item .nav__item-link:hover:before {
   width: 100%;
+  left: -7.5px;
 }
 
 .navbar .nav__item .nav__item-link:hover {
@@ -4000,6 +4001,7 @@ input[type=radio] {
 @media (min-width: 320px) and (max-width: 767px) {
   .footer .footer__copyrights {
     margin-bottom: 10px;
+    text-align: center;
   }
 
   .footer .social-icons {
@@ -4012,10 +4014,14 @@ input[type=radio] {
   }
 
   .footer .justify-content-end {
-    -ms-flex-pack: start !important;
-    -webkit-box-pack: start !important;
-    justify-content: start !important;
+    -ms-flex-pack: center !important;
+    -webkit-box-pack: center !important;
+    justify-content: center !important;
   }
+  .footer .justify-content-end ul{
+    margin-right: 0 !important;
+  }
+
 }
 
 /* Mobile Phones */
@@ -4991,7 +4997,7 @@ input[type=radio] {
 }
 
 .portfolio-carousel .slick-arrow {
-  top: 44%;
+  top: calc(50% - 44px);
   border: 0;
   color: #005eb8;
 }
@@ -7839,7 +7845,7 @@ input[type=radio] {
 }
 
 .service-item-custom {
-  padding: 55px 55px 60px 60px;
+  padding: 40px;
   margin-top: 0;
   text-align: left;
   display: -webkit-box;

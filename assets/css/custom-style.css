@@ -55,6 +55,10 @@
     margin-bottom: 0!important;
 }
 
+.service__icon img{
+    width: 70px;
+}
+
    /****custom styling end****/
 
    .banner-layout5 .contact__icon.contact__icon-custom{
