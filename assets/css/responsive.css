@@ -16,9 +16,9 @@
 /**extra large device css end**/
 /**large device css start**/
 @media (min-width: 992px) and (max-width: 1199.99px) {
-    .features-layout1 .features-bg {
-       height: calc(100% - 275px);
-   }
+   .features-layout1 .features-bg {
+    height: calc(100% - 215px);
+}
    .slider .slide__title {
      font-size: 48px;
    }
@@ -110,9 +110,25 @@
        
      }
    }
+   @media (min-width:799.99px ) and (max-width: 1199px){
+    .heading__title {
+        font-size: 25px!important;
+        padding-right: 82px;
+    }
+  }
    @media (min-width: 320px) and (max-width: 767px){
     .heading__title {
         font-size: 21px;
+    }
+    body {
+        font-size: 13px!important;
+    }
+    
+   }
+   @media (min-width: 799.99px) and (max-width: 1199px){
+    .heading__title {
+        font-size: 25px!important;
+        padding-right: 0px!important;
     }
    }
    /****custom responsive style end****/

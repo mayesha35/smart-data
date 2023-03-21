@@ -15,7 +15,38 @@
    .heading__title {
     font-size: 30px!important;
 }
+.get-started-btn{
+    line-height: 20px!important;
+   }
+   .service-item .service__title {
+    font-size: 20px!important;
    
+} 
+.service-item .service__desc {
+    font-size: 14px!important;
+}
+.list-items li {
+    font-size: 13px!important;
+}
+.banner-layout5 .divider {
+    margin-bottom: 100px!important;
+}
+.banner-layout5 .contact__icon {
+    margin-bottom: 2px!important;
+}
+.slider .slide__title {
+    font-size: 45px!important;
+}
+.awards .fancybox-item .fancybox__desc {
+    font-size: 13px!important;
+    height: 110px!important;
+    overflow: hidden;
+}
+
+.feature-item-custom{
+    height: 100%;
+    margin-bottom: 0!important;
+}
    /****custom styling end****/
 
    .banner-layout5 .contact__icon.contact__icon-custom{
