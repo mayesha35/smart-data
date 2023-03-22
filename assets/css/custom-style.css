@@ -5,6 +5,11 @@
    .navbar .navbar-brand {
      margin-right: 20px!important;
    }
+
+   .navbar-brand img{
+    max-height: 40px !important;
+   }
+   
    .read-note{
      margin-bottom: 30px;
    }
