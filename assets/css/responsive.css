@@ -124,5 +124,8 @@
     font-size: 25px !important;
     padding-right: 0px !important;
   }
+  .btn__icon {
+    padding: 0 21px!important;
+}
 }
 /****custom responsive style end****/
