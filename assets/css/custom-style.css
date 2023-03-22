@@ -98,12 +98,12 @@
 .portfolio-carousel .slick-arrow.slick-prev {
     left: 0!important;
 }
-.pagetitle__heading{
-    font-size: 50px!important;
-}
 .pagetitle__desc {
     font-size: 16px!important;
 }
 .heading__title {
     font-size: 25px!important;
+}
+.pagetitle__heading {
+    font-size: 35px!important;
 }
