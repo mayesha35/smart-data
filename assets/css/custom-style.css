@@ -89,7 +89,7 @@
     right: 0!important;
 }
 .wrapper{
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .portfolio-carousel .slick-arrow {
     top: calc(50% - 87px)!important;
