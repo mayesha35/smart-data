@@ -61,7 +61,7 @@
        margin-left: 0!important;
    }
    } */
-@media (min-width: 380px) {
+@media (min-width: 768px){
   .mt-md-0 {
     margin-top: 0 !important;
   }
@@ -124,5 +124,8 @@
     font-size: 25px !important;
     padding-right: 0px !important;
   }
+  .btn__icon {
+    padding: 0 21px!important;
+}
 }
 /****custom responsive style end****/

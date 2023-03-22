@@ -76,3 +76,54 @@
 .brochure-btn .btn__icon {
     padding: 0px !important;
 }
+.custom-awards-carousel-wrapper{
+    margin-right: 0px!important;
+}
+.portfolio-carousel .portfolio-carousel-wrapper {
+    /* width: calc(100% + 350px); */
+    /* width: -webkit-calc(100% + 341px); */
+    width: 100% !important;;
+}
+.portfolio-carousel .slick-arrow.slick-next {
+    right: 0!important;
+}
+.wrapper{
+    /* overflow: hidden; */
+}
+.portfolio-carousel .slick-arrow {
+    top: calc(50% - 87px)!important;
+    color: #fff!important;
+}
+.portfolio-carousel .slick-arrow.slick-prev {
+    left: 0!important;
+}
+.pagetitle__desc {
+    font-size: 16px!important;
+}
+.heading__title {
+    font-size: 25px!important;
+}
+.pagetitle__heading {
+    font-size: 35px!important;
+}
+
+.pricing-item .btn.purchase-now-btn{
+    height: 60px!important;
+    line-height: 24px!important;
+    padding: 0 14px!important;
+}
+.testimonial__desc {
+    font-size: 16px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+.features-layout1 .features-bg {
+    height: calc(100% - 258px);
+}
+.coming-soon .error__title {
+    font-size: 51px;
+    line-height: 1.1;
+}
+.page-404 .error__desc, .coming-soon .error__desc {
+    font-size: 16px;
+}
