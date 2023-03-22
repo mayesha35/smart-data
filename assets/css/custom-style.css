@@ -118,3 +118,13 @@
     line-height: 1.2;
     margin-bottom: 20px;
 }
+.features-layout1 .features-bg {
+    height: calc(100% - 258px);
+}
+.coming-soon .error__title {
+    font-size: 51px;
+    line-height: 1.1;
+}
+.page-404 .error__desc, .coming-soon .error__desc {
+    font-size: 16px;
+}
