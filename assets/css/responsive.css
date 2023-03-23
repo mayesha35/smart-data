@@ -21,6 +21,10 @@
   .slider .slide__title {
     font-size: 40px !important;
   }
+  .history-timeline .sub__desc,
+  .history-timeline .list-items li {
+    color: #264050 !important;
+  }
 }
 /**large device css end**/
 
@@ -98,6 +102,32 @@
   .service__icon img {
     width: 50px;
   }
+
+  .about-strategy-container{
+    margin-top: 80px;
+}
+
+.testimonials .cta {
+  margin-top: 0;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.testimonials .cta .cta__item:first-child{
+  margin-bottom: 10px;
+}
+
+.testimonials .cta .cta__item:last-child{
+  margin-top: 10px;
+}
+
+.testimonials .cta .cta__item{
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .slider .slide__title {
