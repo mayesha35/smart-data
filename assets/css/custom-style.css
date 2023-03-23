@@ -46,6 +46,19 @@
 .list-items li {
     font-size: 13px!important;
 }
+
+.encipher-section .list-items li {
+    font-size: 12px!important;
+    padding-left: 25px !important;
+}
+
+.encipher-section .list-items li::before{
+    font-size: 9px;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+}
+
 .banner-layout5 .contact__icon {
     margin-bottom: 2px!important;
 }
@@ -134,4 +147,14 @@
 }
 .page-404 .error__desc, .coming-soon .error__desc {
     font-size: 16px;
+}
+
+
+/* Home Page */
+.encipher-section{
+ background-position: top !important;
+}
+
+.encipher-heading{
+    font-size: 30px;
 }
