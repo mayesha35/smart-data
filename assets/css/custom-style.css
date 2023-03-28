@@ -108,9 +108,7 @@
 .portfolio-carousel .slick-arrow.slick-next {
     right: 0!important;
 }
-.wrapper{
-    /* overflow: hidden; */
-}
+
 .portfolio-carousel .slick-arrow {
     top: calc(50% - 87px)!important;
     color: #fff!important;
