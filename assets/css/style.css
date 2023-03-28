@@ -8169,7 +8169,7 @@ input[type=radio] {
   top: 0;
   left: 0;
   width: 100%;
-  height: calc(100% - 230px);
+  height: calc(100% - 245px);
   z-index: -1;
 }
 

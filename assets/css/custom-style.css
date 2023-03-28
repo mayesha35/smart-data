@@ -159,6 +159,31 @@
     font-size: 30px;
 }
 
+.awards .fancybox-item .fancybox__icon-img-custom img {
+    width: 85%;
+    max-width: 120px;
+    aspect-ratio: 1;
+    margin: 0 auto;
+}
+
+.awards .fancybox-item .fancybox__icon-img-custom{
+    height: unset;
+}
+
+.awards-custom .fancybox-item .fancybox__desc{
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    line-height: 1.3;
+    height: unset !important;
+}
+
+.awards .fancybox-item .fancybox__title{
+    min-height: 52px;
+    margin-bottom: 5px;
+}
+
 /* About Page */
 .about-strategy-container{
     margin-top: 30px;
