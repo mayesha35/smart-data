@@ -225,3 +225,13 @@
     padding-top: 10px !important;
     padding-bottom: 10px !important;
 }
+/* .navbar .nav__item.has-dropdown>.dropdown-menu, .navbar .nav__item.dropdown-submenu>.mega-menu, .navbar .nav__item.has-dropdown>.mega-menu, .navbar .nav__item.has-dropdown>.dropdown-menu>.nav__item.dropdown-submenu>.dropdown-menu {
+   
+    left: -120px!important;
+   
+}
+.navbar .dropdown-menu.wide-dropdown-menu {
+   
+    min-width: 853px!important;
+   
+} */
