@@ -220,3 +220,8 @@
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
 }
+
+.dropdown-menu-col.col-sm-6{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
