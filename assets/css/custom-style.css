@@ -108,9 +108,7 @@
 .portfolio-carousel .slick-arrow.slick-next {
     right: 0!important;
 }
-.wrapper{
-    /* overflow: hidden; */
-}
+
 .portfolio-carousel .slick-arrow {
     top: calc(50% - 87px)!important;
     color: #fff!important;
@@ -187,6 +185,40 @@
 /* About Page */
 .about-strategy-container{
     margin-top: 30px;
+}
+.feature-item.feature-item-custom:hover .btn__link {
+    -webkit-transform: translateX(0)!important;
+    transform: translateX(0)!important;
+}
+.feature-item.feature-item-custom .btn_link{
+        margin-top: 25px;
+        height: 25px;
+        display: -webkit-inline-box;
+        display: -ms-inline-flexbox;
+        display: inline-flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-transform: translateX(calc(-100% + 22px));
+        transform: translateX(calc(-100% + 22px));
+}
+.feature-item.feature-item-custom .btn__link span {
+    opacity: 0;
+    color: #ffffff;
+    margin-right: 20px;
+    -webkit-transition: all 0.4s linear;
+    transition: all 0.4s linear;
+}
+.feature-item.feature-item-custom .btn__link i {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    color: #0b3155;
+    background-color: #ffffff;
+    -webkit-transition: all 0.4s linear;
+    transition: all 0.4s linear;
 }
 
 .dropdown-menu-col.col-sm-6{
