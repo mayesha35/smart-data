@@ -254,3 +254,6 @@ a.case-desc {
     line-height: 1.2;
     color: #5b5b5b !important; ;
 }
+.portfolio-item .portfolio__title {
+    margin-bottom: 5px!important;
+}
