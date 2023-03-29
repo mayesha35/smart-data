@@ -250,5 +250,7 @@ a.case-desc {
     -webkit-box-orient: vertical;
     display: -webkit-box;
     overflow: hidden;
-    -webkit-line-clamp: 1;
+    -webkit-line-clamp: 2;
+    line-height: 1.2;
+    color: #5b5b5b !important; ;
 }
